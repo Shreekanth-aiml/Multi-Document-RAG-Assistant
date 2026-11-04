@@ -180,3 +180,7 @@ The application follows these steps:
 2. **Chunking:** Divide extracted text into smaller sections.
 3. **Embedding:** Convert text chunks into numerical vectors.
 4. \*\*Storage
+
+## 🖥️ Application Screenshot
+
+![Multi-Document RAG Assistant](screenshots/homepage.png)
