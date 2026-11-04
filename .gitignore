@@ -1,0 +1,24 @@
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Python virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Uploaded documents and generated database
+data/
+vectorstore/
+
+# Chat history
+chat_history.json
+
+# IDE and system files
+.vscode/
+.DS_Store
+Thumbs.db
